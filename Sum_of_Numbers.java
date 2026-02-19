@@ -20,6 +20,6 @@ public class Sum_of_Numbers {
             Sum += i;
         }
         System.out.print("The Sum of " + N + " numbers is: " );
-        System.out.println(Sum);
+        System.out.print(Sum);
     }
 }
