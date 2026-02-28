@@ -1,5 +1,7 @@
-// Printing Week Days using Switch Case
-
+/* Printing Week Days using Switch Case
+   Input: Enter the week day no: 5
+   Output: Friday
+*/
 import java.util.*;
 public class Week_Days {
     public static void main(String[] args){
