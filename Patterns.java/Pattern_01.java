@@ -1,3 +1,16 @@
+/*
+    Input: 5 (rows)
+    Output:
+
+          * 
+          * *
+          * * *
+          * * * *
+          * * * * *
+*/
+
+
+
 import java.util.*;
 
 public class Pattern_01 {
